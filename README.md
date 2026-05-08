@@ -137,10 +137,6 @@ To change model architecture:
 3. Retrain and export via LibTorch
 4. Replace `linear_model.pt` in `pretrained_weights/`
 
-## License
-
-[Specify your license]
-
 ## Acknowledgments
 
 - [PyTorch](https://pytorch.org/) - ML framework
