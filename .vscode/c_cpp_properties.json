@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "name": "macOS",
+      "includePath": [
+        "${workspaceFolder}/**",
+
+        "/opt/homebrew/Cellar/qt/6.9.3/lib/QtCore.framework/Headers",
+        "/opt/homebrew/opt/qtcharts/lib/QtCharts.framework/Headers",
+
+        "/opt/homebrew/include/eigen3",
+        "/Users/vladbuyel/Documents/Libraries/C++/libtorch/include",
+        "/Users/vladbuyel/Documents/Libraries/C++/libtorch/include/torch/csrc/api/include"
+      ],
+      "compilerPath": "/usr/bin/clang++",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "macos-clang-arm64"
+    }
+  ],
+  "version": 4
+}

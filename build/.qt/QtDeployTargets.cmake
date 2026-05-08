@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_SentimentAnalysis_FILE /Users/vladbuyel/Documents/BSUIR/Курсовые/КПО/NLP_sentiment_analysis/build/SentimentAnalysis)
+set(__QT_DEPLOY_TARGET_SentimentAnalysis_TYPE EXECUTABLE)
