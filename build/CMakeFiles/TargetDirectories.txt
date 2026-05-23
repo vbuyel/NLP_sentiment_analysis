@@ -1,5 +1,0 @@
-/Users/vladbuyel/Documents/BSUIR/Курсовые/КПО/NLP_sentiment_analysis/build/CMakeFiles/SentimentAnalysis.dir
-/Users/vladbuyel/Documents/BSUIR/Курсовые/КПО/NLP_sentiment_analysis/build/CMakeFiles/edit_cache.dir
-/Users/vladbuyel/Documents/BSUIR/Курсовые/КПО/NLP_sentiment_analysis/build/CMakeFiles/rebuild_cache.dir
-/Users/vladbuyel/Documents/BSUIR/Курсовые/КПО/NLP_sentiment_analysis/build/CMakeFiles/SentimentAnalysis_autogen_timestamp_deps.dir
-/Users/vladbuyel/Documents/BSUIR/Курсовые/КПО/NLP_sentiment_analysis/build/CMakeFiles/SentimentAnalysis_autogen.dir
